@@ -1,5 +1,5 @@
 # orbit-browser
-Privacy first browser based on Firefox
+Privacy first browser
 
 # Note -- Orbit Browser is not even CLOSE to finished.
 But here's a list of Operating Systems we (plan) to support
